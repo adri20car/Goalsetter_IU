@@ -1,6 +1,6 @@
-# Prueba_zinli
+# Prueba_Goalsetter
 
-Prueba de Automtatización módulo perfil App Zinli.
+Prueba de Automtatización goallsetter.
 
 Requisitos de Instalación
 
