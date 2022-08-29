@@ -1,8 +1,8 @@
-# Prueba_zinli
+# Prueba_Goalsetter
 
-Prueba de Automtatización módulo perfil App Zinli.
+Prueba de Automtatización goallsetter.
 
-Requisitos de Instalación
+Requisitos de Instalación:
 
 JDK JAVA 1_8 (Variables de entorno)
 
@@ -11,7 +11,7 @@ Appium
 Android Studio (simuladores)
 
 
-Tecnologías
+Tecnologías:
 
 Java
 
@@ -19,17 +19,13 @@ TestNG
 
 Maven
 
-BrowserStack
-
 ExtentReport
 
 Appium
 
 Intellij (opcional)
 
-Gitlab
-
-Estructura del proyecto
+Estructura del proyecto:
 
 POP (Page Object Model)
 

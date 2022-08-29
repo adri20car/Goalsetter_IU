@@ -1,0 +1,7 @@
+*.DS_Store
+*.class
+.idea/*
+*target/*
+*src/main/resources/app*
+*src/main/resources/app/android*
+

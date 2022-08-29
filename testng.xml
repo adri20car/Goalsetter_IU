@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="GOALSETTER" >
+    <test name="Android APP" >
+        <parameter name="jsonConfigFile" value="single.conf.json"/>
+        <parameter name="environment" value="pixel"/>
+        <parameter name="os" value="ANDROID" />
+        <parameter name="mode" value="Local" />
+        <classes>
+            <class name="TestRunner"></class>
+        </classes>
+    </test>
+
+
+</suite>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<!--ANDROID-->
+    <entry key="ANDROID_APK">app-universal-qa.apk</entry>
+    <entry key="ANDROID_DEVICE_NAME">sdk gphone_x86</entry>
+    <entry key="ANDROID_PLATFORM_NAME">Android</entry>
+    <entry key="ANDROID_PLATFORM">Android</entry>
+    <entry key="ANDROID_AUTOMATION_NAME">UiAutomator2</entry>
+    <entry key="ANDROID_VERSION">11</entry>
+    <entry key="ANDROID_APP_PACKAGE">com.goalsetter</entry>
+    <entry key="ANDROID_APP_ACTIVITY">com.goalsetter.MainActivity</entry>
+    <entry key="ANDROID_BUNDLE_ID">com.goalsetter</entry>
+
+    <entry key="ENVIRONMENT">com.goalsetter</entry>
+    <entry key="APPIUM_SERVER_URL">http://127.0.0.1:4723/wd/hub</entry>
+    <entry key="IMPLICIT_WAIT">60</entry>
+
+
+</properties>
